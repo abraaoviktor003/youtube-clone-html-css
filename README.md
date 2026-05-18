@@ -24,8 +24,7 @@ The folders were organized to keep the project structure simple and easy to unde
 
 Additional notes:
 
-- `intro-to-html/` contains tests and experiments created during the learning and development process of the project.
-- Other folders such as `styles/`, `icons/`, `thumbnails/`, and `channel-pictures/` are separated according to their respective purposes.
+- Project folders such as `styles/`, `icons/`, `thumbnails/`, and `channel-pictures/` are separated and organized according to their respective purposes.
 
 ## Technologies Used
 
